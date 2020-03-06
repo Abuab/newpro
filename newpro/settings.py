@@ -134,11 +134,11 @@ INTERNAL_IPS = ('127.0.0.1', 'localhost', '61.244.66.114')
 
 EMAIL_HOST = 'smtp.163.com'
 EMAIL_PORT = 465
-EMAIL_HOST_USER = 'abucool@163.com'
-EMAIL_HOST_PASSWORD = 'z139034'
+EMAIL_HOST_USER = 'Your email username'
+EMAIL_HOST_PASSWORD = 'Your Authorization code'
 EMAIL_USE_SSL = True
 
-SERVER_HOST = '47.244.1.78'
+SERVER_HOST = '127.0.0.1'
 SERVER_PORT = '8003'
 
 CACHES = {
